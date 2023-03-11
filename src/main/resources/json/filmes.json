@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "titulo": "Avatar",
+    "genero": "Ação",
+    "duracao": "162",
+    "sinopse": "No exuberante mundo alienígena de Pandora vivem os Na'vi, seres que parecem ser primitivos, mas são altamente evoluídos. Como o ambiente do planeta é tóxico, foram criados os avatares, corpos biológicos controlados pela mente humana que se movimentam livremente em Pandora. Jake Sully, um ex-fuzileiro naval paralítico, volta a andar através de um avatar e se apaixona por uma Na'vi. Esta paixão leva Jake a lutar pela sobrevivência de Pandora.",
+    "imdb": "7.9",
+    "imagem": "https://media.fstatic.com/BemTmRIVFm_vjd6K1Ly3gK22p2k=/322x478/smart/filters:format(webp)/media/movies/covers/2011/06/71fc1d0bb2bc1483e66941bb2f17d830.jpg",
+    "like": "10",
+    "favorito": "false"
+  },
+  {
+    "id": "2",
+    "titulo": "M3GAN",
+    "genero": "Terror",
+    "duracao": "142",
+    "sinopse": "M3GAN é uma maravilha da inteligência artificial, uma boneca realista programada para ser a melhor amiga de uma criança. Uma robótica brilhante dá a sua jovem sobrinha um protótipo M3GAN, mas a máquina logo se torna violenta.",
+    "imdb": "6.4",
+    "imagem": "https://cinema10.com.br/upload/filmes/filmes_16557_megan-poster.jpg",
+    "like": "8",
+    "favorito": "false"
+  },
+  {
+    "id": "3",
+    "titulo": "A baleia",
+    "genero": "Drama",
+    "duracao": "117",
+    "sinopse": "A Baleia é do mesmo diretor dos sucessos Cisne Negro (2010), Mãe! (2017) e Réquiem para um Sonho (2000). Após uma perda afetiva, o professor Charlie (Brendan Fraser) optou por uma vida reclusa e se afastou de sua filha, a pequena Ellie (Sadie Sink), por cerca de uma década. Durante esse período, ele adquiriu uma obesidade mórbida, sabe dos riscos que ela oferece, e conta com a ajuda da parceira Liz (Hong Chau). Agora, Charlie deseja se reconectar com a filha para dar um novo sentido à vida, mesmo sabendo que muitos fatores poderão dificultar a realização desse incrível sonho. Premiado no Festival de Veneza 2022 e indicado ao Oscar 2023 de Melhor Ator, Atriz Coadjuvante e Maquiagem.",
+    "imdb": "7.8",
+    "imagem": "https://www.kinoplex.com.br/filmes/images/cartaz/262x388/a-baleia.jpg",
+    "like": "9",
+    "favorito": "true"
+  },
+  {
+    "id": "4",
+    "titulo": "Homem Formiga e Vespa: Quantumania",
+    "genero": "Ação",
+    "duracao": "125",
+    "sinopse": "Homem-Formiga e a Vespa: Quantumania é do mesmo diretor dos sucessos Homem-Formiga (2015) e Homem-Formiga e a Vespa (2018). Scott Lang / Homem-Formiga (Paul Rudd) seguiu com a vida depois de ter sido preso e colaborado com os Vingadores. Para a surpresa dele, da esposa Hope van Dyne / Vespa (Evangeline Lilly), do sogrão Dr. Hank Pym (Michael Douglas) e da sogra Janet (Michelle Pfeiffer), sua filha Cassie (Kathryn Newton) estabeleceu novo contato com o Reino Quântico. A iniciativa foi o suficiente para levá-los para lá. Agora, eles vão encarar uma aventura épica, em um perigoso mundo secreto habitado pelo poderoso Kang (Jonathan Majors). Este é 31º filme do Universo Cinematográfico Marvel.",
+    "imdb": "5.7",
+    "imagem": "https://www.kinoplex.com.br/filmes/images/cartaz/262x388/homem-formiga-e-vespa-quantumania.jpg",
+    "like": "6",
+    "favorito": "false"
+  },
+  {
+    "id": "5",
+    "titulo": "Tudo em todo lugar ao mesmo tempo",
+    "genero": "Ação",
+    "duracao": "141",
+    "sinopse": "Tudo em Todo o Lugar ao Mesmo Tempo é dos mesmos criadores da comédia Um Cadáver Para Sobreviver (2016), premiado no Festival de Sundance. Evelyn Wang (Michelle Yeoh) é uma imigrante chinesa batalhadora em sua rotina diária e que acreditava levar uma vida normal. Tudo vira de pernas pro ar quando ela descobre que tem a capacidade de explorar universos paralelos. Sem fazer a menor ideia do porque isso foi acontecer, ela acaba por encontrar outras Evelyns, de outras vidas, e algumas delas com habilidades especiais. E é justamente isso que ela precisará usar para salvar o multiverso de um grande mal. Agora, tudo o que Evelyn mais quer é voltar para casa e ficar livre dessa louca aventura.",
+    "imdb": "8",
+    "imagem": "https://www.kinoplex.com.br/filmes/images/cartaz/262x388/tudo-em-todo-o-lugar-ao-mesmo-tempo.jpg",
+    "like": "12",
+    "favorito": "true"
+  },
+  {
+    "id": "6",
+    "titulo": "Creed III",
+    "genero": "Drama",
+    "duracao": "116",
+    "sinopse": "Creed III é sequência dos sucessos Creed: Nascido para Lutar (2015) e Creed II (2018). Ao longo dos últimos sete anos, Creed (Michael B. Jordan) enfrentou grandes desafios e aprendeu com lendas do boxe, como seu pai e o eterno Rocky Balboa. De repente, com a vida estruturada, ao lado de Bianca (Tessa Thompson), Creed acaba impactado por uma grande surpresa. Damian (Jonathan Majors), um velho amigo de infância igualmente talentoso no esporte, reaparece após cumprir 18 anos de prisão. No início, o reencontro parecia promissor, mas o ódio e a inveja reprimidos de Damian afloraram. Agora, eles que chegaram a conviver como irmãos, no passado, irão acertar contas, no presente, dentro de um ringue.",
+    "imdb": "7.3",
+    "imagem": "https://www.kinoplex.com.br/filmes/images/cartaz/262x388/creed-iii.jpg",
+    "like": "10",
+    "favorito": "true"
+  }
+]

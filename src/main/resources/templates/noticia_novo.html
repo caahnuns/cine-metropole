@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>.:: Notícias ::.</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+<div class="container">
+  <div th:insert="menu.html::menu"></div>
+  <h2>Adicionar Notícia</h2>
+  <hr/>
+  <form th:object="${noticia}" method="post" th:action="@{/noticia/novo}">
+    <div class="form-group">
+      <label for="titulo">Título: </label>
+      <input type="text" id="titulo" name="titulo" class="form-control" th:field="*{titulo}" />
+    </div>
+    <div class="form-group">
+      <label for="autor">Autor: </label>
+      <input type="text" id="autor" name="autor" class="form-control" th:field="*{autor}" />
+    </div>
+    <div class="form-group">
+      <label for="descricao">Descrição: </label>
+      <textarea id="descricao" name="descricao" class="form-control" rows="3" th:field="*{descricao}"></textarea>
+    </div>
+    <div class="form-group">
+      <label for="imagem">Imagem: </label>
+      <input type="text" id="imagem" name="imagem" class="form-control" th:field="*{imagem}" />
+    </div>
+    <div>
+      <a th:href="@{/noticia}" class="btn btn-secondary float-left">Cancelar</a>
+      <button type="submit" class="btn btn-primary float-right">Salvar</button>
+    </div>
+  </form>
+</div>
+</body>
+</html>

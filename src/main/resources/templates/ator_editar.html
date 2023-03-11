@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>.:: Atores ::.</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+<div class="container">
+  <div th:insert="menu.html::menu"></div>
+<h2>Editar Ator</h2>
+<hr/>
+<form th:object="${ator}" method="post" th:action="@{/ator/editar}">
+  <input type="hidden" th:field="*{id}">
+  <div class="form-group">
+    <label for="nome">Nome: </label>
+    <input type="text" id="nome" name="nome" class="form-control" th:field="*{nome}" />
+  </div>
+  <div class="form-group">
+    <label for="apelido">Apelido: </label>
+    <input type="text" id="apelido" name="apelido" class="form-control" th:field="*{apelido}" />
+  </div>
+  <div class="form-group">
+    <label for="nacionalidade">Nacionalidade: </label>
+    <input type="text" id="nacionalidade" name="nacionalidade" class="form-control" th:field="*{nacionalidade}" />
+  </div>
+  <div class="form-group">
+    <label for="imagem">Imagem: </label>
+    <input type="text" id="imagem" name="imagem" class="form-control" th:field="*{imagem}" />
+  </div>
+  <div>
+    <a th:href="@{/ator}" class="btn btn-secondary float-left">Cancelar</a>
+    <button type="submit" class="btn btn-primary float-right">Salvar</button>
+  </div>
+</form>
+</div>
+</body>
+</html>

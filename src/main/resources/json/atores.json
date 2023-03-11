@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "nome": "Dev Patel",
+    "apelido": "Dev Patel",
+    "nacionalidade": "Britânico",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Dev_Patel_%2829870651654%29.jpg"
+  },
+  {
+    "id": "2",
+    "nome": "Samuel Henry John Worthington",
+    "apelido": "Sam",
+    "nacionalidade": "Australiano",
+    "imagem": "https://st1.uvnimg.com/dims4/default/b3f0e3f/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc4%2F02%2F6f23ba34447d92d590930288f1c8%2Fsam-worthington-avatar-1600x900-122211.jpg"
+  },
+  {
+    "id": "3",
+    "nome": "Gwyneth Kate Paltrow",
+    "apelido": "Gwyneth Paltrow",
+    "nacionalidade": "Norte-americana",
+    "imagem": "https://uploads.metropoles.com/wp-content/uploads/2019/02/08165852/GettyImages-951739730.jpg"
+  }
+]

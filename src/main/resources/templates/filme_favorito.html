@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>.:: Filmes Favoritos ::.</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+<div class="container">
+  <div th:insert="menu.html::menu"></div>
+    <h2>Filmes Favoritos</h2>
+  <table class="table">
+    <thead>
+    <tr>
+      <th scope="col">Likes</th>
+      <th scope="col" class="col-sm-2">Imagem</th>
+      <th scope="col">Título</th>
+      <th scope="col">Gênero</th>
+      <th scope="col">Duração</th>
+      <th scope="col">IMDB</th>
+      <th colspan="2">Ações</th>
+    </tr>
+    </thead>
+    <tbody>
+    <div th:each="filme : ${filmes}">
+      <tr>
+        <th th:text="${filme.like}"></th>
+        <td><img th:src="${filme.imagem}" th:alt="${filme.titulo}" th:title="${filme.titulo}" class="img-fluid" /></td>
+        <td th:text="${filme.titulo}"></td>
+        <td th:text="${filme.genero}"></td>
+        <td th:text="${filme.duracao}"></td>
+        <td th:text="${filme.imdb}"></td>
+        <td><a th:href="@{/filme/editar/{id}(id=${filme.id})}">Editar</a></td>
+        <td><a th:href="@{/filme/remover/{id}(id=${filme.id})}" onclick="return confirm('Tem certeza que deseja excluir este filme?')">Excluir</a></td>
+      </tr>
+      <tr>
+        <td colspan="12" style="border-top: 0 !important;" th:text="${filme.sinopse}"></td>
+      </tr>
+    </div>
+    </tbody>
+  </table>
+</div>
+</body>
+</html>

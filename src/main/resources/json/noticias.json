@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "titulo": "Ele já viu Avatar 2 cem vezes no cinema…",
+    "descricao": "Lançado em 15 de dezembro no circuito brasileiro, Avatar - O Caminho da Água mobilizou milhões de espectadores nos cinemas. Só no país, foram contabilizados R$ 219 milhões em bilheteria no final de janeiro, mantendo-se na liderança por várias semanas consecutivas. O primeiro filme, Avatar, lançado em 2009, até hoje é considerado a maior bilheteria da história mundial, chegando na casa dos bilhões. Mas para muitos fãs, Avatar 2 chega a ser ainda mais atrativo — e desafiador. Um holandês, por exemplo, se comprometeu a assistir ao filme mais de 50 vezes, e logo ultrapassou a própria expectativa.",
+    "imagem": "https://br.web.img2.acsta.net/img/12/2f/122f806891db1f572918414c963d435d.jpg",
+    "autor": "Giovanna Ribeiro"
+  },
+  {
+    "id": "2",
+    "titulo": "Anime de Creed? Michael B. Jordan prepara universo expandido da franquia",
+    "descricao": "O sucesso de Creed III é responsável não apenas por reafirmar a popularidade do spin-off de Rocky estrelado por Michael B. Jordan, mas também se mostra agora como um propulsor para o futuro da franquia. De acordo com um relatório divulgado pelo Deadline hoje (9), a saga deve ganhar um universo expandido com novos filmes e séries de TV.\n\nCom produção da Amazon, empresa que já tem um longo relacionamento com Jordan, diversos projetos relacionados à Creed fazem parte do planejamento. Apesar das conversas estarem em estágios iniciais e \"exploratórios\", segundo o veículo norte-americano, há planos para uma série live-action e uma produção focada em Amara, a filha de Adonis Creed, personagem interpretada por Mila Davis-Kent no longa lançado há poucos dias.",
+    "imagem": "https://s2.glbimg.com/PYzAPzszhJHNKflkovMHxHJNyqg=/0x0:1920x1079/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/D/z/LKBHFbQJOazMESvjSlmg/creed-3-foto5.jpg",
+    "autor": "Diego Souza Carlos"
+  },
+  {
+    "id": "3",
+    "titulo": "15 atores que conquistaram o Oscar injustamente",
+    "descricao": "Todo ano durante o Oscar rola aquele clássico bolão com as preferências pessoais sobre os ganhadores, né? Como não dá para todo mundo levar a estatueta para casa, sempre tem aquele injustiçado que merecia mais, principalmente entre os atores e atrizes. Por isso, o AdoroCinema decidiu preparar uma matéria especial com as 15 personalidades que ganharam o Oscar, mas que - na nossa percepção - não mereciam tanto assim. Isso significa que são atores ruins? Não! Apenas, que haviam melhores alternativas nos anos citados.",
+    "imagem": "https://br.web.img2.acsta.net/img/bd/33/bd336915b5f1143b2525c56cb000ad48.jpg",
+    "autor": "Lucas Salgado"
+  },
+  {
+    "id": "4",
+    "titulo": "Mussum ipsum - O melhor lorem ipsum do mundis",
+    "descricao": "Mussum Ipsum, cacilds vidis litro abertis. Delegadis gente finis, bibendum egestas augue arcu ut est.Manduma pindureta quium dia nois paga.Quem num gosta di mé, boa gentis num é.Leite de capivaris, leite de mula manquis sem cabeça.\n\nPraesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.",
+    "imagem": "https://v5j9q4b5.rocketcdn.me/wp-content/uploads/2021/03/mussum-quem-e-historia-do-sambista-e-ator-popular.jpg",
+    "autor": "Mussum Ipsum"
+  }
+]
